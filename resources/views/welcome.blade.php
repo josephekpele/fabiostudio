@@ -6,7 +6,7 @@
     <meta name="keywords" content="The best of the wildlife photography, Explore The World, 50 Years of Wildlife Photographer of the Year, Top scientists demand NSW commit to brumby cull in Kosciuszko national park, Top 10 Wildlife Photographers To Watch">
     <meta name="description" content="">
     <meta name="page_type" content="np-template-header-footer-from-plugin">
-    <title>Acceuil</title>
+    <title>Fabio Studio</title>
     <link rel="stylesheet" href={{asset('css/nicepage.css')}} media="screen">
 <link rel="stylesheet" href={{asset('css/Acceuil.css')}} media="screen">
     <script class="u-script" type="text/javascript" src={{asset('js/jquery-1.9.1.min.js')}} defer=""></script>
