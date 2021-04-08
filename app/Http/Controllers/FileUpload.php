@@ -16,7 +16,7 @@ class FileUpload extends Controller
             'file' => 'required|mimes:csv,txt,xlx,xls,pdf|max:2048'
             ]);
     
-            $fileModel = new File;
+            $fileModel = new Files;
     
             if($req->file()) {
                 $fileName = time().'_'.$req->file->getClientOriginalName();

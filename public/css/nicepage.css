@@ -4006,6 +4006,11 @@ section,
 summary {
   display: block;
 }
+.bcolorf{
+  background-color:rgb(20, 19, 19);
+}
+
+
 audio,
 canvas,
 progress,
@@ -4654,7 +4659,10 @@ ol {
   line-height: inherit;
   letter-spacing: inherit;
   text-transform: inherit;
+  
 }
+
+
 .u-text:not(ul):not(ol):not(p):not(.u-post-content):not(.u-block-content):not(.u-product-desc):not(.u-cart-block-content) a {
   color: inherit;
 }
@@ -5565,6 +5573,9 @@ footer > *,
 .u-sheet > * {
   position: relative;
 }
+header,footer{
+  background-color: rgb(119, 119, 247);
+}
 base {
   display: none;
 }
@@ -5590,6 +5601,7 @@ a:focus {
 .u-clearfix:before {
   content: '';
   display: table;
+  
 }
 .u-clearfix:after {
   clear: both;
@@ -32185,7 +32197,7 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-header .u-menu-1 {
-  margin: 90px 0 60px auto;
+  margin: 50px 0 50px auto;
 }
 
 .u-header .u-nav-2 {

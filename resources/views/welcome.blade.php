@@ -261,7 +261,7 @@
     </section>
     
     
-    <footer class="u-black u-clearfix u-footer" id="sec-e04b"><div class="u-clearfix u-sheet u-sheet-1">
+    <footer class="bcolorf u-clearfix u-footer" id="sec-e04b"><div class="u-clearfix u-sheet u-sheet-1">
         <div class="u-clearfix u-expanded-width-lg u-expanded-width-md u-expanded-width-xl u-expanded-width-xs u-gutter-30 u-layout-wrap u-layout-wrap-1">
           <div class="u-gutter-0 u-layout">
             <div class="u-layout-row">
@@ -289,16 +289,6 @@
           </div>
         </div>
       </div></footer>
-    <section class="u-backlink u-clearfix u-grey-80">
-      <a class="u-link" href="https://nicepage.com/website-design" target="_blank">
-        <span>Website Design Free</span>
-      </a>
-      <p class="u-text">
-        <span>created with</span>
-      </p>
-      <a class="u-link" href="https://nicepage.com/html-website-builder" target="_blank">
-        <span>WYSIWYG HTML Editor</span>
-      </a>. 
-    </section>
+   
   </body>
 </html>
