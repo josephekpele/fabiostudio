@@ -23,7 +23,7 @@
 }</script>
     <meta property="og:title" content="Reservation">
     <meta property="og:type" content="website">
-    <meta name="theme-color" content="#ff7070">
+    <meta name="theme-color" content="black">
     <link rel="canonical" href="index.html">
     <meta property="og:url" content="index.html">
   </head>
