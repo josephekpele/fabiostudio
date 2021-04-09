@@ -8,12 +8,12 @@
     <meta name="page_type" content="np-template-header-footer-from-plugin">
     <title>Reservation</title>
     <link rel="stylesheet" href={{asset('css/nicepage.css')}} media="screen">
-<link rel="stylesheet" href={{asset('css/Reservation.css')}} media="screen">
+    <link rel="stylesheet" href={{asset('css/Reservation.css')}} media="screen">
     <script class="u-script" type="text/javascript" src="{{asset('js/jquery-1.9.1.min.js')}}" defer=""></script>
     <script class="u-script" type="text/javascript" src="{{asset('js/nicepage.js')}}" defer=""></script>
     <meta name="generator" content="Nicepage 3.9.2, nicepage.com">
     <link id="u-theme-google-font" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Playfair+Display:400,400i,500,500i,600,600i,700,700i,800,800i,900,900i|Raleway:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i">
-    
+    <link href="css/creative.min.css" rel="stylesheet">
     
     <script type="application/ld+json">{
 		"@context": "http://schema.org",
@@ -27,38 +27,39 @@
     <link rel="canonical" href="index.html">
     <meta property="og:url" content="index.html">
   </head>
-  <body class="u-body"><header class="u-clearfix u-header" id="sec-11b4"><div class="u-align-left u-clearfix u-sheet u-sheet-1">
-        <nav class="u-menu u-menu-dropdown u-offcanvas u-menu-1">
-          <div class="menu-collapse">
-            <a class="u-button-style u-nav-link" href="#">
-              <svg><use xlink:href="#menu-hamburger"></use></svg>
-              <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs><symbol id="menu-hamburger" viewBox="0 0 16 16" style="width: 16px; height: 16px;"><rect y="1" width="16" height="2"></rect><rect y="7" width="16" height="2"></rect><rect y="13" width="16" height="2"></rect>
-</symbol>
-</defs></svg>
-            </a>
+  <body class="u-body masthead">
+      <nav class="navbar navbar-expand-lg navbar-light fixed-top py-3" id="mainNav">
+        <div class="container">
+          <a class="navbar-brand js-scroll-trigger" href="#page-top">FABIO STUDIO, LA PASSION DE LA PHOTOGRAPHIE</a>
+          <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+          <div class="collapse navbar-collapse" id="navbarResponsive">
+            <ul class="navbar-nav ml-auto my-2 my-lg-0">
+    <!--           <li class="nav-item">
+                <a class="nav-link js-scroll-trigger" href="/">Accueil</a>
+              </li> -->
+              <li class="nav-item">
+                <a class="nav-link js-scroll-trigger" href="#about">Photos</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link js-scroll-trigger" href="/reservation">Reservation</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link js-scroll-trigger" href="#stats">Nos Services</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link js-scroll-trigger" href="/contact">Contact</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link js-scroll-trigger" href="/connexion">Connexion</a>
+              </li>
+            </ul>
           </div>
-          <div class="u-custom-menu u-nav-container">
-            <ul class="u-nav u-unstyled"><li class="u-nav-item"><a class="u-button-style u-nav-link" href="/">Acceuil</a>
-</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="/reservation">Reservation</a>
-</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="/contact">Contact</a>
-</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="/connexion">Connexion</a>
-</li></ul>
-          </div>
-          <div class="u-custom-menu u-nav-container-collapse">
-            <div class="u-black u-container-style u-inner-container-layout u-opacity u-opacity-95 u-sidenav">
-              <div class="u-sidenav-overflow">
-                <div class="u-menu-close"></div>
-                <ul class="u-align-center u-nav u-popupmenu-items u-unstyled u-nav-2"><li class="u-nav-item"><a class="u-button-style u-nav-link" href="/">Acceuil</a>
-                </li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="/reservation">Reservation</a>
-                </li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="/contact">Contact</a>
-                </li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="/connexion">Connexion</a>
-                </li></ul>
-              </div>
-            </div>
-            <div class="u-black u-menu-overlay u-opacity u-opacity-70"></div>
-          </div>
-        </nav>
-      </div></header>
+        </div>
+      </nav>
+
+
       <section class="u-clearfix u-image u-section-1" id="sec-493f" data-image-width="1500" data-image-height="1000">
         <div class="u-clearfix u-sheet u-sheet-1">
           <div class="u-clearfix u-expanded-width u-layout-wrap u-layout-wrap-1">
@@ -88,7 +89,7 @@
                   <div class="u-layout-col">
                     <div class="u-container-style u-layout-cell u-right-cell u-size-20 u-layout-cell-3">
                       <div class="u-container-layout u-container-layout-3">
-                        <h2 class="u-text u-text-grey-70 u-text-9">Reservation</h2>
+                        <h2 class="u-text u-text-grey-70 u-text-1">Reservation</h2>
                       </div>
                     </div>
                     <div class="u-container-style u-layout-cell u-right-cell u-size-40 u-layout-cell-4">

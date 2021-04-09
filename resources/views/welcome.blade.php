@@ -8,7 +8,7 @@
   <meta name="description" content="">
   <meta name="author" content="">
 
-  <title>Chaque Enfant Partout A l'école</title>
+  <title>L'agence de shooting toujours à votre service</title>
 
   <!-- Font Awesome Icons -->
   <link href="vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
@@ -104,29 +104,29 @@
       <div class="row">
         <div class="col-lg-3 col-md-6 text-center">
           <div class="mt-5">
-            <i class="fas fa-4x fa-baby text-primary mb-4"></i>
-            <h3 class="h4 mb-2">Moins de décès d'enfants</h3>
+            <i class="fas fa-4x fa-baby text-primary mb-4"> <img class="img-fluid rounded-lg h-25 d-inline-block" src="images/portfolio/thumbnails/1.jpg" alt=""> </i>
+            <h3 class="h4 mb-2">PHOTO EXPRESS - VIDEOS</h3>
             <p class="text-muted mb-0">Dus au manque ou à l'insuffisance des connaissances des Mamans</p>
           </div>
         </div>
         <div class="col-lg-3 col-md-6 text-center">
           <div class="mt-5">
-            <i class="fas fa-4x fa-poll text-primary mb-4"></i>
-            <h3 class="h4 mb-2">Moins de mariages précoces</h3>
+            <i class="fas fa-4x fa-poll text-primary mb-4"> <img class="img-fluid rounded-lg h-25 d-inline-block" src="images/portfolio/thumbnails/2.jpg" alt=""> </i>
+            <h3 class="h4 mb-2">SHOOTINGS</h3>
             <p class="text-muted mb-0">Car Oui On se marie par consentement circonspect et dans le respect !</p>
           </div>
         </div>
         <div class="col-lg-3 col-md-6 text-center">
           <div class="mt-5">
-            <i class="fas fa-4x fa-user-friends text-primary mb-4"></i>
-            <h3 class="h4 mb-2">Moins de grossesses précoces</h3>
+            <i class="fas fa-4x fa-user-friends text-primary mb-4"> <img class="img-fluid rounded-lg h-25 d-inline-block" src="images/portfolio/thumbnails/3.jpg" alt=""> </i>
+            <h3 class="h4 mb-2">ANNIVERSAIRES</h3>
             <p class="text-muted mb-0">Et c'est dire :Non ! au cycle infernal dans certaines familles.</p>
           </div>
         </div>
         <div class="col-lg-3 col-md-6 text-center">
           <div class="mt-5">
-            <i class="fas fa-4x fa-money-check-alt text-primary mb-4"></i>
-            <h3 class="h4 mb-2">Un potentiel de revenu plus élevé</h3>
+            <i class="fas fa-4x fa-money-check-alt text-primary mb-4"> <img class="img-fluid rounded-lg h-25 d-inline-block" src="images/portfolio/thumbnails/4.jpg" alt=""> </i>
+            <h3 class="h4 mb-2">MARIAGES - BAPTEMES</h3>
             <p class="text-muted mb-0">Une famille plus équilibrée, une société qui est à son image.</p>
           </div>
         </div>
@@ -236,18 +236,18 @@
         <div class="col-lg-8 text-center">
           <h2 class="mt-0">Je le veux dans mon école !</h2>
           <hr class="divider my-4">
-          <p class="text-muted mb-5">Si vous voulez que votre établissement scolaire participe, c'est très simple ! Ecrivez-nous dès à présent sur le + 228 91 64 66 23! <a href="https://wa.me/+22891646623">WhatsApp</a></p>
+          <p class="text-muted mb-5">Si vous voulez que votre établissement scolaire participe, c'est très simple ! Ecrivez-nous dès à présent sur le + 228 92 13 43 30! <a href="https://wa.me/+22892134330">WhatsApp</a></p>
         </div>
       </div>
       <div class="row">
         <div class="col-lg-4 ml-auto text-center mb-5 mb-lg-0">
           <i class="fas fa-phone fa-3x mb-3 text-muted"></i>
-          <div>+(228) 91 64 66 23</div>
+          <div>+(228) 92 13 43 30</div>
         </div>
         <div class="col-lg-4 mr-auto text-center">
           <i class="fas fa-envelope fa-3x mb-3 text-muted"></i>
           <!-- Make sure to change the email address in anchor text AND the link below! -->
-          <a class="d-block" href="mailto:baruc.arsene@gmail.com">Adresse Mail</a>
+          <a class="d-block" href="mailto:josephekpele99@gmail.com">Adresse Mail</a>
         </div>
       </div>
     </div>
@@ -256,7 +256,7 @@
   <!-- Footer -->
   <footer class="bg-light py-5">
     <div class="container">
-      <div class="small text-center text-muted">Copyright &copy; 2020 - Baruc</div>
+      <div class="small text-center text-muted">Copyright &copy; 2021 - FabioStudio</div>
     </div>
   </footer>
 
